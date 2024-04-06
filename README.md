@@ -1,2 +1,2 @@
-# Trabalho-Web-Design---Curriculo
-https://lucasfelsky.github.io/Trabalho-Web-Design---Curriculo/
+# Trabalho-Web-Design-Curriculo
+https://lucasfelsky.github.io/Trabalho-Web-Design-Curriculo/
